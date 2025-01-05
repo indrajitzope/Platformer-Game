@@ -1,2 +1,1 @@
-# Platformer-Game
-2D Platformer Game
+Here’s a Python code example for a 2D platformer game using the Pygame library. It includes basic functionality such as a player character that can move left, right, and jump, along with a platform to stand on.
